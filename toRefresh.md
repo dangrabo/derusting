@@ -14,4 +14,8 @@ Creating an array {
     String[] myArray = new String[5]; // Where 5 is the length of the array
 }
 
+
+Strings
+----------
+Concatenation method - myString.concat(myStringTwo)
 - 
