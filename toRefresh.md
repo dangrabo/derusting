@@ -37,4 +37,17 @@ entrySet() example {
     // do something with key and value
 }
 }
+
+
+Classes and objects/instances
+----------
+Overriding the toString method:
+@Override
+public String toString() {
+    return "Person{" +
+                "name='" + name + '\'' +
+                ", age=" + age +
+                '}';
+    }
+
 - 
